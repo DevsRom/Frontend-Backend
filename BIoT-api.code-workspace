@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Backend-api"
+		},
+		{
+			"path": "Frontend-api"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
